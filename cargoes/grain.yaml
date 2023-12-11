@@ -1,0 +1,17 @@
+abbreviation: GA
+available: true
+classes: 16
+colour: 190
+id: 0
+label: GRAN
+longName: grain
+name: Grain
+penaltyLength: 36
+penaltyLowerBound: 0
+price: 3701
+sprite:
+  filename: cargoes/grain.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
